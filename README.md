@@ -18,4 +18,4 @@ the way of network analysis.
 
 https://doi.org/10.1089/brain.2020.0747
 
-![Untitled](https://user-images.githubusercontent.com/108366877/178054529-e79b48a0-ca9d-490f-89a0-ba51554a7a18.png)
+![Untitled](https://user-images.githubusercontent.com/108366877/178056241-d48f25e6-b300-420a-8e52-188f18bfcc44.png)
