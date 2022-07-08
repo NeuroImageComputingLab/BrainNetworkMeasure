@@ -23,6 +23,7 @@ https://doi.org/10.1089/brain.2020.0747
 
 Average group centrality network measures of NC subjects and AD subjects (a) Group Degree (b)
 Group Betweenness Centrality. Significance is represented by an asterisk * (p < 0.05) 
+
 ![Untitled](https://user-images.githubusercontent.com/108366877/178076214-ba52bb25-931c-4de1-b1ef-b8ddb67d7147.png)
 
 
@@ -30,3 +31,5 @@ Group Betweenness Centrality. Significance is represented by an asterisk * (p < 
 
 Average group integrity network measures of NC and AD of Left and Right hemispheres (a) Group
 Efficiency (b) Group Characteristic Path Length. Significance is represented by an asterisk * (p < 0.05) 
+
+![Untitled](https://user-images.githubusercontent.com/108366877/178076441-69251099-08d8-47f3-bfe5-d8199c9557f1.png)
