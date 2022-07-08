@@ -19,3 +19,14 @@ the way of network analysis.
 https://doi.org/10.1089/brain.2020.0747
 
 ![Untitled](https://user-images.githubusercontent.com/108366877/178056241-d48f25e6-b300-420a-8e52-188f18bfcc44.png)
+
+
+Average group centrality network measures of NC subjects and AD subjects (a) Group Degree (b)
+Group Betweenness Centrality. Significance is represented by an asterisk * (p < 0.05) 
+![Untitled](https://user-images.githubusercontent.com/108366877/178076214-ba52bb25-931c-4de1-b1ef-b8ddb67d7147.png)
+
+
+
+
+Average group integrity network measures of NC and AD of Left and Right hemispheres (a) Group
+Efficiency (b) Group Characteristic Path Length. Significance is represented by an asterisk * (p < 0.05) 
