@@ -16,7 +16,7 @@ concepts of group measures have the potential to solve several such
 problems in the brain networks analysis and the group measures change
 the way of network analysis.
 
-##Paper: https://doi.org/10.1089/brain.2020.0747
+__Paper: https://doi.org/10.1089/brain.2020.0747
 
 ![Untitled](https://user-images.githubusercontent.com/108366877/178056241-d48f25e6-b300-420a-8e52-188f18bfcc44.png)
 
